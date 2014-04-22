@@ -21,6 +21,7 @@ platforms:
   - recipe[apt]
 
 - name: centos-6.5
+- name: oracle-6.5
 
 suites:
 - name: tomcat6
